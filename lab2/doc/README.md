@@ -39,9 +39,9 @@
 
 Размер каждого изображения 150x150.
 
-![inf_train_data](lab2/img/inf_train_data.png)
+![inf_train_data](../img/inf_train_data.png)
 
-![inf_test_data](lab2/img/inf_test_data.png)
+![inf_test_data](../img/inf_test_data.png)
 ## Метрика качества решения задачи
 ## Исходный формат хранения данных
 ## Формат данных, предоставляющийся на вход сети
